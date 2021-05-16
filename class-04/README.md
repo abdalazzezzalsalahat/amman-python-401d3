@@ -30,9 +30,8 @@
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
 - Challenge Review
-- Challege Preview
+- Challenge Preview
 - Lab Review
 - Lab Preview
 - Guided Research
@@ -43,3 +42,5 @@
 - [Object Oriented Programming and Python Classes](./notes/classes.md)
 - [Class Inheritance and Composition](./notes/inheritance.md)
 - [Pytest Fixtures](./notes/fixtures.md)
+- [Javascript Class Repl](https://replit.com/@dariothornhill/LittleOliveForce#index.js)
+- [Python Class Repl](https://replit.com/@dariothornhill/AvariciousVigorousTransversal#main.py)
